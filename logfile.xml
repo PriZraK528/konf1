@@ -1,0 +1,4 @@
+<session><command><user>testuser</user><time>2024-11-18 15:03:53</time><input>ls</input><output>zip</output></command><command><user>testuser</user><time>2024-11-18 15:03:56</time><input>cd zip</input><output>Changed directory to /zip</output></command><command><user>testuser</user><time>2024-11-18 15:03:59</time><input>ls</input><output>bin
+gol.txt
+hhh
+root</output></command><command><user>testuser</user><time>2024-11-18 15:04:03</time><input>cd ..</input><output>Directory not found: ..</output></command><command><user>testuser</user><time>2024-11-18 15:04:13</time><input>cd /</input><output>Changed to root directory</output></command><command><user>testuser</user><time>2024-11-18 15:04:18</time><input>ls</input><output>zip</output></command><command><user>testuser</user><time>2024-11-18 15:04:24</time><input>date</input><output>2024-11-18 15:04:24</output></command></session>
