@@ -102,19 +102,19 @@
 ### Примеры использования команд:
 
 #### Команда `ls`:
-![ls_example]()
+![ls_example](https://github.com/PriZraK528/konf1/blob/main/ls.png)
 
 #### Команда `cd`:
-![cd_example]()
+![cd_example](https://github.com/PriZraK528/konf1/blob/main/cd.png)
 
 #### Команда `history`:
-![history_example]()
+![history_example](https://github.com/PriZraK528/konf1/blob/main/history.png)
 
 #### Команда `date`:
-![date_example]()
+![date_example](https://github.com/PriZraK528/konf1/blob/main/date.png)
 
-#### Команда `date`:
-![who_example]()
+#### Команда `who`:
+![who_example](https://github.com/PriZraK528/konf1/blob/main/who.png)
 
 
 ## 5. Результаты прогона тестов
